@@ -12,3 +12,5 @@ Changes done in bug456
 
 Changes done for stash
 
+Changes done in local repostiory
+
